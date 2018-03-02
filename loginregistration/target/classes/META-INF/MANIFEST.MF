@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: loginregistration
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Victor Dunbar
+Implementation-Vendor-Id: com.codingdojo.logreg
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/loginregistr
+ ation/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
